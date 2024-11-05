@@ -1,0 +1,6 @@
+Unknown command: 'ASDASDASD'
+No ship has been initialized
+usage: GT4500,<PRI_CNT>,<PRI_FAIL_RATE>,<SEC_CNT>,<SEC_FAIL_RATE>
+SUCCESS
+usage: TORPEDO,<SINGLE|ALL>
+Unknown firing mode: 'BOTH'
