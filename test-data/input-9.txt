@@ -1,0 +1,6 @@
+asdasdasd #input check
+torpedo,all
+GT4500
+GT4500,10,0,10,0
+torpedo
+torpedo,both
